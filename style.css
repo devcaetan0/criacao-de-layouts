@@ -1,0 +1,50 @@
+/* --- LAblocoUT 1 --- */
+
+body{
+    background-color: rgb(252, 252, 252);
+}
+
+.titulo-layouts{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10;
+    margin: 20;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.links-layouts{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bloco{
+    padding: 50;
+    margin: 20;
+    background-color: rgb(0, 0, 0);
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+/* --- LAblocoUT 2 --- */
+
+
+
+/* --- LAblocoUT 3 --- */
+
+
+
+/* --- LAblocoUT 4 --- */
+
+
+
+/* --- LAblocoUT 5 --- */
+
+
+
+/* --- LAblocoUT 6 --- */
+
+
