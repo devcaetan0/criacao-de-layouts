@@ -65,7 +65,7 @@ body{
     padding: 50;
     margin: 20;
     height: 160;
-    background-color: rgb(82, 46, 0);
+    background-color: rgb(109, 62, 1);
 }
 
 #bloco-vomito-l10{
@@ -80,6 +80,13 @@ body{
     margin: 20;
     width: 140;
     background-color: rgb(37, 28, 0);
+}
+
+.blocos-magenta-l15{
+    padding: 50;
+    margin: 20;
+    width: 140;
+    background-color: rgb(128, 0, 179);
 }
 
 .blocos-invisivel{
