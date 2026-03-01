@@ -42,10 +42,16 @@ body{
 #bloco-yellow-l4{
     padding: 50;
     margin: 20;
-    height: 140;
+    height: 160;
     background-color: rgb(255, 238, 0);
 }
 
+#bloco-purple-l5{
+    padding: 50;
+    margin: 20;
+    height: 140;
+    background-color: rgb(111, 0, 255);
+}
 
 .flex{
     display: flex;
