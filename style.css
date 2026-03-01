@@ -75,6 +75,13 @@ body{
     background-color: rgb(146, 172, 0);
 }
 
+.blocos-coco-l14{
+    padding: 50;
+    margin: 20;
+    width: 140;
+    background-color: rgb(37, 28, 0);
+}
+
 .blocos-invisivel{
     padding: 50;
     margin: 20;
