@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(255, 255, 255);
 }
 
 .titulo-layouts{
     background-color: black;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10;
     margin: 20;
@@ -82,25 +82,10 @@ body{
     background-color: rgb(37, 28, 0);
 }
 
-.blocos-magenta-l15{
-    padding: 50;
-    margin: 20;
-    width: 140;
-    background-color: rgb(128, 0, 179);
-}
-
-.blocos-white-l16{
-    padding: 45;
-    margin: 20;
-    width: 140;
-    background-color: rgb(255, 255, 255);
-    border: 5px solid black;
-}
-
 .blocos-invisivel{
     padding: 50;
     margin: 20;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .flex{
